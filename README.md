@@ -1,2 +1,3 @@
 Statis project through Hack Club. Built a Spotify Display that shows what song you're playing. 
-<img width="1210" height="577" alt="Screenshot 2026-04-19 112710" src="https://github.com/user-attachments/assets/1e59760c-d03c-4c70-92b0-0e8e22f1be2e" />
+<img width="2560" height="1369" alt="image" src="https://github.com/user-attachments/assets/4f13c214-ab47-4f3a-a0d8-fa32e624cecf" />
+
